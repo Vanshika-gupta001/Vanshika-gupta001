@@ -47,7 +47,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="./stats-card.svg" alt="GitHub Stats" width="100%"/>
+<img src="./stats-card.svg" alt="GitHub Stats" width="700" height="280"/>
 
 </div>
 
@@ -55,18 +55,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-gupta001&layout=compact&theme=radical&hide_border=true&bg_color=170e28&title_color=ff7eb6&text_color=e9d5ff" alt="Top Languages"/>
+<img src="./langs-card.svg" alt="Top Languages" width="700" height="280"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Vanshika-gupta001&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Vanshika-gupta001&theme=radical&hide_border=true&background=170e28&ring=38bdf8&fire=3b82f6&currStreakLabel=60a5fa" alt="GitHub Streak" width="700" height="200"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vanshika-gupta001&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" width="95%"/>
+<img src="./trophies-card.svg" alt="Achievements" width="700" height="135"/>
 
 </div>
 
