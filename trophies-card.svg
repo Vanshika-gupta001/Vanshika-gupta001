@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 150" width="780" height="150" role="img" aria-label="Achievements">
+<defs>
+<style><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,monospace}
+]]></style>
+</defs>
+<g>
+  <rect x="4" y="4" width="118" height="142" rx="12" fill="#170e28" stroke="#38bdf8" stroke-width="1.5"/>
+  <text x="63" y="48" text-anchor="middle" font-size="26">📦</text>
+  <text x="63" y="80" text-anchor="middle" font-size="12" fill="#93c5fd" font-weight="bold">Repositories</text>
+  <text x="63" y="112" text-anchor="middle" font-size="20" fill="#38bdf8" font-weight="bold">6+</text>
+</g>
+<g>
+  <rect x="132" y="4" width="118" height="142" rx="12" fill="#170e28" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="191" y="48" text-anchor="middle" font-size="26">💻</text>
+  <text x="191" y="80" text-anchor="middle" font-size="12" fill="#93c5fd" font-weight="bold">Contributions</text>
+  <text x="191" y="112" text-anchor="middle" font-size="20" fill="#3b82f6" font-weight="bold">Active</text>
+</g>
+<g>
+  <rect x="260" y="4" width="118" height="142" rx="12" fill="#170e28" stroke="#60a5fa" stroke-width="1.5"/>
+  <text x="319" y="48" text-anchor="middle" font-size="26">🏆</text>
+  <text x="319" y="80" text-anchor="middle" font-size="12" fill="#93c5fd" font-weight="bold">Hackathons</text>
+  <text x="319" y="112" text-anchor="middle" font-size="20" fill="#60a5fa" font-weight="bold">1</text>
+</g>
+<g>
+  <rect x="388" y="4" width="118" height="142" rx="12" fill="#170e28" stroke="#2563eb" stroke-width="1.5"/>
+  <text x="447" y="48" text-anchor="middle" font-size="26">🎓</text>
+  <text x="447" y="80" text-anchor="middle" font-size="12" fill="#93c5fd" font-weight="bold">MBA</text>
+  <text x="447" y="112" text-anchor="middle" font-size="14" fill="#2563eb" font-weight="bold">AI &amp; ML</text>
+</g>
+<g>
+  <rect x="516" y="4" width="118" height="142" rx="12" fill="#170e28" stroke="#38bdf8" stroke-width="1.5"/>
+  <text x="575" y="48" text-anchor="middle" font-size="26">🤝</text>
+  <text x="575" y="80" text-anchor="middle" font-size="12" fill="#93c5fd" font-weight="bold">Open To</text>
+  <text x="575" y="112" text-anchor="middle" font-size="13" fill="#38bdf8" font-weight="bold">Remote Work</text>
+</g>
+<g>
+  <rect x="644" y="4" width="132" height="142" rx="12" fill="#170e28" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="710" y="48" text-anchor="middle" font-size="26">📊</text>
+  <text x="710" y="80" text-anchor="middle" font-size="12" fill="#93c5fd" font-weight="bold">AI Projects</text>
+  <text x="710" y="112" text-anchor="middle" font-size="20" fill="#3b82f6" font-weight="bold">3+</text>
+</g>
+</svg>
