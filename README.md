@@ -2,10 +2,6 @@
 
 <img src="./hero-banner.svg" alt="Vanshika Gupta — MBA, AI & ML" width="100%"/>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vanshika-gupta001&label=PROFILE+VIEWS&color=ff7eb6&style=for-the-badge)
-
 </div>
 
 <br/>
@@ -80,7 +76,7 @@
 ## 🟡 Watch Pacman Eat My Contributions
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Vanshika-gupta001/Vanshika-gupta001/output/dist/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/Vanshika-gupta001/Vanshika-gupta001/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%"/>
 </div>
 
 > Renders once the `pacman.yml` workflow has run at least once (Actions tab → run it manually, or wait for the 12-hourly schedule).
