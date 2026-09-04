@@ -46,23 +46,18 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="./stats-card.svg" alt="GitHub Stats" width="700" height="280"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="./langs-card.svg" alt="Top Languages" width="700" height="280"/>
-</div>
+<table align="center" border="0">
+<tr>
+<td align="center"><img src="./stats-card.svg" alt="GitHub Stats" width="400" height="160"/></td>
+<td align="center"><img src="./langs-card.svg" alt="Top Languages" width="400" height="160"/></td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Vanshika-gupta001&theme=radical&hide_border=true&background=170e28&ring=38bdf8&fire=3b82f6&currStreakLabel=60a5fa" alt="GitHub Streak" width="700" height="200"/>
+<img src="https://streak-stats.demolab.com?user=Vanshika-gupta001&theme=radical&hide_border=true&background=170e28&border=38bdf8&stroke=38bdf8&ring=38bdf8&fire=3b82f6&currStreakNum=fde047&sideNums=60a5fa&currStreakLabel=60a5fa&sideLabels=93c5fd&dates=8b949e" alt="GitHub Streak" width="700" height="200"/>
 
 <br/><br/>
 
