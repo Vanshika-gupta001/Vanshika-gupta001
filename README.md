@@ -63,21 +63,15 @@
 
 <br/>
 
-## 🐍 Watch the Snake Eat My Contributions
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Vanshika-gupta001/Vanshika-gupta001/output/dist/snake-pink.svg" alt="Contribution snake" width="100%"/>
-</div>
-
-> Renders once the `snake.yml` workflow has run at least once (Actions tab → run it manually, or wait for the daily schedule).
-
-<br/>
-
 ## 🟡 Watch Pacman Eat My Contributions
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Vanshika-gupta001/Vanshika-gupta001/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%"/>
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="700">
+<tr>
+<td align="center" bgcolor="#170e28" style="background-color:#170e28; padding:16px; border-radius:12px;">
+<img src="https://raw.githubusercontent.com/Vanshika-gupta001/Vanshika-gupta001/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" width="100%"/>
+</td>
+</tr>
+</table>
 
 > Renders once the `pacman.yml` workflow has run at least once (Actions tab → run it manually, or wait for the 12-hourly schedule).
 
