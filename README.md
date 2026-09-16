@@ -92,9 +92,9 @@
 <div align="center">
 
 **Building intelligence, one dataset at a time.** ✨
+> ✨ *🚀 If this profile made you go *"okay, she's actually building stuff"* — drop a ⭐, say hi, or just come back and see what's cooking next.*
 
 <br/>
 
-### 🚀 If this profile made you go *"okay, she's actually building stuff"* — drop a ⭐, say hi, or just come back and see what's cooking next.
 
 </div>
